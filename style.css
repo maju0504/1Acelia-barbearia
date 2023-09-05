@@ -3,3 +3,7 @@ h1 {
     color: rgb(255, 149, 167);
     text-transform: uppercase;
 }
+
+body {
+    background-color: rgb(202, 248, 233);
+}
