@@ -46,8 +46,8 @@
     }
     
     body {
-        background: rgb(63, 94, 251);
-        background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
+        background: rgb(255, 150, 191);
+        background: radial-gradient(circle, rgb(255, 65, 113) 0%, rgb(207, 30, 65) 100%);
     }
     
     .texto {
