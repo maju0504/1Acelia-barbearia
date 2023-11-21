@@ -85,3 +85,18 @@
         text-transform: uppercase;
         font-size: 40px;
     }
+
+    #item1 {
+        background-image: url(https://images.pexels.com/photos/16156996/pexels-photo-16156996/free-photo-of-borrao-mancha-nevoa-doces.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+        background-size: cover;
+    }
+
+    #item2 {
+        background-image: url(https://images.pexels.com/photos/7167288/pexels-photo-7167288.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+        background-size: cover;
+    }
+
+    #item3 {
+        background-image: url(https://images.pexels.com/photos/2531546/pexels-photo-2531546.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+        background-size: cover;
+    }
